@@ -10,6 +10,11 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.support.v4.app.NavUtils;
 
+/**
+ * 
+ * @author panyi
+ *
+ */
 public class MainActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
