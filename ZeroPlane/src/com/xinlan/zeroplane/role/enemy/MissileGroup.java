@@ -30,7 +30,7 @@ public class MissileGroup {
 	private Bitmap missileBitmap;
 	public Bitmap boomBitmap;
 
-	public int status = THREE;
+	public int status = ONE;
 
 	public MissileGroup(EnemyGen parent) {
 		this.parent = parent;
